@@ -1,3 +1,19 @@
+## Date: 11-09-2026
+
+**Today's Work**
+
+* Completed Session 4 Constructors and Java Keywords live practice problems.
+* Completed Session 4 Constructors and Java Keywords assignment problems.
+* Added `constructors_and_java_keywords` package with `class_problems` and `assigment_problems`.
+
+**Next Session Plan**
+
+* Begin Session 5 topics.
+
+**Issues Faced**
+
+* None.
+
 ## Date: 05-09-2026
 
 **Today's Work**
