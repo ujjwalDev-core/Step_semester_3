@@ -1,3 +1,19 @@
+## Date: 12-09-2026
+
+**Today's Work**
+
+* Completed Session 5 Access Modifiers, Encapsulation & Object Modeling live practice problems.
+* Completed Session 5 Access Modifiers, Encapsulation & Object Modeling assignment problems.
+* Added `access_modifiers_encapsulation_object_modeling` package with `class_problems` and `assigment_problems`.
+
+**Next Session Plan**
+
+* Begin Session 6 topics.
+
+**Issues Faced**
+
+* None.
+
 ## Date: 11-09-2026
 
 **Today's Work**
